@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, I’m Zahra 👋
+- I'm currently studying Software Engineering
+- I always seek to achieve a high standard in whatever work I undertake
+- I'm trying to acquire more skills and improve myself
 <!--
 **zahravaraste/zahravaraste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
